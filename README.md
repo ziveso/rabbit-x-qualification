@@ -14,14 +14,14 @@ There are **10** points totals (+1 additional), you will need to complete **at l
 
 - If the todo has **only number**, you will need to sum all of the number and show the result. ( where ever you want to ),
 - If there is **not a number** ( String, String plus number, whatever that is not a number ), you will need to concat all the todos and show the result as well.
-- You will also need to send all the actions to our backend via REST API.
+- You will also need to send all the actions to our backend via **REST API**.
 
 ### Requirements ( Score )
 
-1. Use React.js (1 pts) or React-Native. (3 pts)
-2. Use Mobx as global state management (2 pts) and use the correct type of actions. (+1 pts)
-3. Complete the application with all functions. (2 pts)
-4. Connect the backend using REST API. (2 pts)
+1. Use **_React.js_** (1 pts) or **_React-Native_**. (3 pts)
+2. Use **_Mobx_** as global state management (2 pts) and use the correct type of actions. (+1 pts)
+3. Complete the application with **_all functions_**. (2 pts)
+4. Connect the backend using **_REST API_**. (2 pts)
 
 Invite guy.thitiwat@rabbitstale.com to the repository when you finish.
 
