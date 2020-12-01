@@ -24,6 +24,7 @@ There are **10** points totals (+1 additional), you will need to complete **at l
 4. Connect the backend using **_REST API_**. (2 pts)
 
 Invite guy.thitiwat@rabbitstale.com to the repository when you finish.
+(or thitiwat.thongbor@gmail.com, if email above is not exist.)
 
 #### Additional ( +1 pts )
 
