@@ -10,7 +10,7 @@ There are **10** points totals (+1 additional), you will need to complete **at l
 
 [https://www.w3schools.com/howto/howto_js_todolist.asp](https://www.w3schools.com/howto/howto_js_todolist.asp)
 
-### Moreover
+### What you need to implement
 
 - If the todo has **only number**, you will need to sum all of the number and show the result. ( where ever you want to ),
 - If there is **not a number** ( String, String plus number, whatever that is not a number ), you will need to concat all the todos and show the result as well.
