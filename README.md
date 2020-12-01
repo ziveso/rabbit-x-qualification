@@ -18,14 +18,14 @@ There are **10** points totals (+1 additional), you will need to complete **at l
 
 ### Requirements ( Score )
 
-1. Use React.js (1) or React-Native. (3)
-2. Use Mobx as global state management (2) and use the correct type of actions. (1)
-3. Complete the application with all functions. (2)
-4. Connect the backend using REST API. (2)
+1. Use React.js (1 pts) or React-Native. (3 pts)
+2. Use Mobx as global state management (2 pts) and use the correct type of actions. (+1 pts)
+3. Complete the application with all functions. (2 pts)
+4. Connect the backend using REST API. (2 pts)
 
 Invite guy.thitiwat@rabbitstale.com to the repository when you finish.
 
-#### Additional ( +1 point )
+#### Additional ( +1 pts )
 
 - If you're using React.js
 
