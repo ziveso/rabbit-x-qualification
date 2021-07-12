@@ -2,7 +2,7 @@
 
 ### Your assignment is
 
-- Write the multi functions todolist application using one of the specific javascript library.
+- Write the multi functions todo list application using one of the specific javascript library.
 
 There are **10** points totals (+1 additional), you will need to complete **at least 7 points.**
 
@@ -12,13 +12,18 @@ There are **10** points totals (+1 additional), you will need to complete **at l
 
 ### What you need to implement
 
+Add UIs ( Don't need to be good design ).
+- 1. Sum of all Todos that is a number.
+- 2. Concat all string in Todos.
+
+More Info
 - If the todo has **only number**, you will need to sum all of the number and show the result. ( where ever you want to ),
-- If there is **not a number** ( String, String plus number, whatever that is not a number ), you will need to concat all the todos and show the result as well.
+- If there is **not a number** ( String, String plus number, whatever that is not a number ), you will need to concat all the todos and show the result as well. ( where ever you want.)
 
 ### Requirements ( Score )
 
 1. Use **_React.js_** (3 pts) or **_React-Native_**. (3 pts)
-2. Use **_Mobx_** as global state management (2 pts) and use the correct type of actions. (+1 pts)
+2. Use **_MobX_** as global state management (2 pts) and use the correct type of actions. (+1 pts)
 3. Complete the application with **_all functions_**. (4 pts)
 
 Invite guy.thitiwat@rabbitstale.com to the repository when you finish.
